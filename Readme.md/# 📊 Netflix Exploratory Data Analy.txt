@@ -1,0 +1,41 @@
+# 📊 Netflix Exploratory Data Analysis (EDA) Project
+
+This project focuses on performing exploratory data analysis (EDA) on the **Netflix Titles Dataset** using Python libraries like **Pandas, Matplotlib, and Seaborn**. The goal is to uncover insights and trends in the types of content Netflix offers globally.
+
+---
+
+## 📌 Objectives
+
+- Clean and preprocess the dataset using Pandas
+- Handle missing values and inconsistent data
+- Perform data analysis to extract meaningful patterns
+- Visualize data using Seaborn and Matplotlib
+
+---
+
+## 📁 Dataset
+
+- Dataset: `netflix_titles.csv`
+- Source: [Netflix on Kaggle](https://www.kaggle.com/shivamb/netflix-shows)
+
+---
+
+## 🔍 Insights Gained
+
+- Year-wise release trends of movies and TV shows
+- Distribution of content types (Movies vs TV Shows)
+- Most frequent genres and directors
+- Country-wise content production
+- Missing data handling with default values where appropriate
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Jupyter Notebook / VS Code
+
+---
